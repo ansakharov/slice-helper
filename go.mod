@@ -1,4 +1,4 @@
-module slice-helper
+module github.com/ansakharov/slice-helper
 
 go 1.21.3
 
